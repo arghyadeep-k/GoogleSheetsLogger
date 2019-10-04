@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+#Google-Generated-Creds for testing
+google-generated-creds.json
